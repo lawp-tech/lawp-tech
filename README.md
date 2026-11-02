@@ -1,9 +1,19 @@
-## Rawrence Perez
+# I am Law P
 
-Enterprise software engineer specializing in large-scale system architecture and design.
+**Machine Learning Engineer**
 
-**Experience**: Healthcare, finance, retail - building systems for companies at different scales
+## Focus Areas
+Interpretability, Explainable AI, Model Transparency, Feature Attribution, ML Fairness
 
-**Technologies**: Java, Python, C#, AWS, Azure, PostgreSQL, Oracle, Kafka
+## ML Experience
+- Implemented SHAP and LIME-based explainability systems for model interpretation
+- Developed feature attribution analysis revealing model decision factors
+- Built fairness assessment frameworks detecting and mitigating algorithmic bias
+- Created interpretability dashboards for stakeholder transparency
 
-**Focus**: Enterprise architecture, system reliability, team leadership
+## Connect
+- GitHub: [@lawp-tech](https://github.com/lawp-tech)  
+- LinkedIn: [Profile](https://linkedin.com/in/lawp-tech)
+
+---
+*Building solutions that matter.*
