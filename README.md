@@ -1,26 +1,27 @@
-## Law P
+I am Law P
 
-**Trustworthy AI**
+**Explainable AI & Model Interpretability Engineer**
 
-### Why Interpretability Matters
+**Focus Areas:**
 
-Black-box models don't cut it in regulated industries. Healthcare, finance, lending—these domains need explainability.
+**Model Interpretability**
+- SHAP-based feature attribution analysis
+- Model-agnostic interpretation methods
+- Decision pathway visualization
+- Stakeholder communication systems
 
-**Work:**
-- SHAP-based feature attribution
-- Model-agnostic interpretability methods
+**Fairness & Bias Mitigation**
 - Fairness audits and bias detection
-- Stakeholder-friendly visualizations
+- Algorithmic bias quantification
+- Mitigation strategy implementation
+- Continuous monitoring systems
 
-### Impact Delivered
-- Reduced lending bias by 34%
-- Identified 12 model bugs through interpretability analysis
-- Built trust with regulatory teams
-- Explained 50K+ model predictions to end-users
+**Business Impact:**
+- 34% reduction in lending bias
+- 12 critical model bugs identified through interpretability
+- Regulatory compliance achieved
+- 50K+ model predictions explained to stakeholders
 
-### Current Focus
-Aligning model behavior with business rules. Not every correlation is actionable. Understanding causality helps.
+**Tools & Methods:** SHAP, LIME, Fairness Indicators, custom dashboards
 
-**Tools:** SHAP, LIME, Fairness Indicators, custom dashboards
-
-**Mandate:** Make every model decision explainable.
+Core mandate: Every model decision must be explainable. Transparency builds trust with regulators and users.
