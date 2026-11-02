@@ -1,22 +1,76 @@
-Law P
-Explainable AI
+# Law P
 
-### Why This Matters
+**Explainable AI & Model Interpretability Engineer**
 
-Healthcare, Finance, Lending → Need explainability. Black-box models don't cut it.
+## Why Explainability Matters
 
-### Work
+In many domains, black-box models don't cut it. Healthcare, finance, lending—regulators require understanding why decisions were made. Users demand transparency. Fairness requires visibility.
 
-SHAP feature attribution, Model-agnostic interpretation, Fairness audits, Bias detection
+## Core Work
 
-### Impact
+### 🔍 Model Interpretability
 
-34% bias reduction, 12 bugs found via interpretability, Regulatory compliance, 50K+ decisions explained
+Understanding why models make decisions they do. Not just accuracy—understanding.
 
-### Tools
+**SHAP (SHapley Additive exPlanations):**
+- Game-theoretic approach to feature attribution
+- Feature contribution to predictions
+- Individual prediction explanations
+- Global feature importance
 
-SHAP, LIME, Fairness Indicators, Custom dashboards
+**LIME (Local Interpretable Model-agnostic Explanations):**
+- Local linear approximations around predictions
+- Explaining any model type
+- Understanding individual decisions
+- Identifying model failure modes
 
-### Mandate
+**Interpretation Patterns:**
+- Feature importance rankings
+- Decision trees approximating neural nets
+- Prototype and counterfactual explanations
 
-Every model decision explainable. Transparency builds trust.
+### ⚖️ Fairness & Bias Detection
+
+Systematic bias in decisions affecting protected groups.
+
+**Detection:**
+- Fairness metrics across demographics
+- Disparate impact analysis
+- Bias quantification
+
+**Mitigation:**
+- Algorithmic debiasing techniques
+- Data augmentation and rebalancing
+- Constraint-based optimization
+- Continuous monitoring
+
+**Tools:** Fairness Indicators, AI Fairness 360, custom metrics
+
+## Business Impact
+
+### Reducing Lending Bias
+Demographic analysis of loan decisions revealed systematic bias. Implemented fairness constraints reducing disparate impact by 34%.
+
+### Model Debugging
+Interpretability analysis identified 12 critical model bugs—decisions clearly wrong to domain experts. Manual inspection missed these patterns.
+
+### Regulatory Compliance
+Financial regulators require explanations for lending decisions. SHAP-based system explains every decision in regulatory-approved format.
+
+### Stakeholder Trust
+Data scientists who understand decisions trust models more. Stakeholders feel confidence in recommendations. Users feel respected with explanations.
+
+### Decision Quality
+Understanding why models decide reveals opportunities for improvement. Feature engineering based on interpretability findings.
+
+## Philosophy
+
+Every model decision should be explainable. Not every person needs the explanation, but it must be available. Interpretability isn't a luxury—it's essential infrastructure.
+
+## Challenge
+
+Perfect transparency comes with performance cost. Some explanations require simplification. Balancing interpretability against accuracy is nuanced.
+
+---
+
+*Trustworthy AI through transparency.*
