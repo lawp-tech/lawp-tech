@@ -1,11 +1,13 @@
 # Rawrence Perez
 
-**Enterprise Software Engineer**
+**What I do**: Turn business problems into elegant technical solutions
 
-Designing and implementing large-scale enterprise systems. Focus on:
-- Enterprise architecture patterns
-- System reliability and performance
-- Integration and data pipelines
-- Regulatory compliance
+**How**: Enterprise architecture, system integration, regulatory compliance, scalability
 
-**Technologies**: Java, Python, C#, Oracle, PostgreSQL, Apache Kafka, Hadoop, AWS, Azure
+**Experience**: From startups to Fortune 500 enterprises. Built systems for healthcare, finance, retail.
+
+**Languages**: Java, Python, C#, Go
+**Platforms**: AWS, Azure, Kubernetes, Apache Kafka
+**Databases**: Oracle, PostgreSQL, MongoDB
+
+**Philosophy**: Good engineering is invisible. You notice when it's wrong, but it should feel natural when it's right.
