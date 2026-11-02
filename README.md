@@ -1,21 +1,11 @@
-# I am Rawrence Perez
+# Rawrence Perez
 
-## About
-Passionate about building scalable, maintainable systems. Specializing in Enterprise Systems.
+**Enterprise Software Engineer**
 
-## Technical Expertise
-\`\`\`
-Backend Development, System Design, Cloud Architecture, Enterprise Solutions
-\`\`\`
+Designing and implementing large-scale enterprise systems. Focus on:
+- Enterprise architecture patterns
+- System reliability and performance
+- Integration and data pipelines
+- Regulatory compliance
 
-## What I Bring
-- Production-grade code quality
-- Scalable system architecture  
-- Mentorship & knowledge sharing
-- Continuous learning mindset
-
-## Let's Work Together
-📧 Reach out via [GitHub](https://github.com/lawp-tech) or [LinkedIn](https://linkedin.com/in/lawp-tech)
-
----
-*Engineering excellence, one commit at a time.*
+**Technologies**: Java, Python, C#, Oracle, PostgreSQL, Apache Kafka, Hadoop, AWS, Azure
