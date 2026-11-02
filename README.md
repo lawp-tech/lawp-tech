@@ -1,27 +1,22 @@
-I am Law P
+Law P
+Explainable AI
 
-**Explainable AI & Model Interpretability Engineer**
+### Why This Matters
 
-**Focus Areas:**
+Healthcare, Finance, Lending → Need explainability. Black-box models don't cut it.
 
-**Model Interpretability**
-- SHAP-based feature attribution analysis
-- Model-agnostic interpretation methods
-- Decision pathway visualization
-- Stakeholder communication systems
+### Work
 
-**Fairness & Bias Mitigation**
-- Fairness audits and bias detection
-- Algorithmic bias quantification
-- Mitigation strategy implementation
-- Continuous monitoring systems
+SHAP feature attribution, Model-agnostic interpretation, Fairness audits, Bias detection
 
-**Business Impact:**
-- 34% reduction in lending bias
-- 12 critical model bugs identified through interpretability
-- Regulatory compliance achieved
-- 50K+ model predictions explained to stakeholders
+### Impact
 
-**Tools & Methods:** SHAP, LIME, Fairness Indicators, custom dashboards
+34% bias reduction, 12 bugs found via interpretability, Regulatory compliance, 50K+ decisions explained
 
-Core mandate: Every model decision must be explainable. Transparency builds trust with regulators and users.
+### Tools
+
+SHAP, LIME, Fairness Indicators, Custom dashboards
+
+### Mandate
+
+Every model decision explainable. Transparency builds trust.
