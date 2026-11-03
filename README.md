@@ -1,76 +1,41 @@
-# Law P
+<div align="center">
 
-**Explainable AI & Model Interpretability Engineer**
 
-## Why Explainability Matters
+## Lawrence Perez
 
-In many domains, black-box models don't cut it. Healthcare, finance, lending—regulators require understanding why decisions were made. Users demand transparency. Fairness requires visibility.
 
-## Core Work
+**Senior Software Engineer · Full-Stack Development · AI/ML & Data Engineering**
 
-### 🔍 Model Interpretability
 
-Understanding why models make decisions they do. Not just accuracy—understanding.
+</div>
 
-**SHAP (SHapley Additive exPlanations):**
-- Game-theoretic approach to feature attribution
-- Feature contribution to predictions
-- Individual prediction explanations
-- Global feature importance
 
-**LIME (Local Interpretable Model-agnostic Explanations):**
-- Local linear approximations around predictions
-- Explaining any model type
-- Understanding individual decisions
-- Identifying model failure modes
+Senior software engineer with 10+ years of experience building scalable systems across full-stack development, machine learning and data engineering. My current focus is **generative AI, LLM agents and retrieval-augmented generation**, with the evaluation, observability and data pipelines that make them reliable in production. Domain experience spans legal tech, marketing, developer tooling and healthcare data.
 
-**Interpretation Patterns:**
-- Feature importance rankings
-- Decision trees approximating neural nets
-- Prototype and counterfactual explanations
 
-### ⚖️ Fairness & Bias Detection
+**Core expertise:** Agentic AI & RAG &nbsp;|&nbsp; Full-stack & microservices &nbsp;|&nbsp; Data pipelines & ML &nbsp;|&nbsp; Cloud-native architecture
 
-Systematic bias in decisions affecting protected groups.
 
-**Detection:**
-- Fairness metrics across demographics
-- Disparate impact analysis
-- Bias quantification
+### Selected Projects
 
-**Mitigation:**
-- Algorithmic debiasing techniques
-- Data augmentation and rebalancing
-- Constraint-based optimization
-- Continuous monitoring
 
-**Tools:** Fairness Indicators, AI Fairness 360, custom metrics
+| Project | Domain | Summary |
+|---|---|---|
+| **Redline** | Agentic AI · Legal | Multi-agent contract review: clause extraction, playbook risk scoring and drafted redlines with human-in-the-loop approval |
+| **Precedent** | RAG · Search | Hybrid vector and keyword search over a contract library, returning grounded answers with source citations |
+| **Launchpad** | Full-Stack · Workflow | Campaign approvals platform with configurable review stages, event-driven notifications and a complete audit trail |
+| **Tagsmith** | Machine Learning | Content classification into a controlled taxonomy, with confidence-based human review and LLM fallback |
+| **OncoLake** | Data · Healthcare | Oncology EHR ETL into a de-identified longitudinal warehouse, with cohort analytics for researchers |
+| **Specwright** | Developer Tooling | Spec-driven, AI-assisted development workflow with traceability from requirement to tested code |
 
-## Business Impact
 
-### Reducing Lending Bias
-Demographic analysis of loan decisions revealed systematic bias. Implemented fairness constraints reducing disparate impact by 34%.
+### Technical Skills
 
-### Model Debugging
-Interpretability analysis identified 12 critical model bugs—decisions clearly wrong to domain experts. Manual inspection missed these patterns.
 
-### Regulatory Compliance
-Financial regulators require explanations for lending decisions. SHAP-based system explains every decision in regulatory-approved format.
+| Area | Technologies |
+|---|---|
+| Languages & frameworks | Python, TypeScript, JavaScript, Java, SQL · React, Next.js, Angular, Node.js, FastAPI |
+| AI & machine learning | LLMs, RAG, LangChain, Claude, Amazon Bedrock, AgentCore, LLM evaluation, scikit-learn |
+| Data | PostgreSQL, pgvector, OpenSearch, DynamoDB, BigQuery, Pandas, ETL pipelines |
+| Cloud & DevOps | AWS (Lambda, S3, SQS, EventBridge, ECS), Docker, Kubernetes, Terraform, GitHub Actions |
 
-### Stakeholder Trust
-Data scientists who understand decisions trust models more. Stakeholders feel confidence in recommendations. Users feel respected with explanations.
-
-### Decision Quality
-Understanding why models decide reveals opportunities for improvement. Feature engineering based on interpretability findings.
-
-## Philosophy
-
-Every model decision should be explainable. Not every person needs the explanation, but it must be available. Interpretability isn't a luxury—it's essential infrastructure.
-
-## Challenge
-
-Perfect transparency comes with performance cost. Some explanations require simplification. Balancing interpretability against accuracy is nuanced.
-
----
-
-*Trustworthy AI through transparency.*
