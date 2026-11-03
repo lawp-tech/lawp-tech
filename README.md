@@ -1,41 +1,102 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Lawrence%20Perez&fontSize=38&fontColor=fff" />
+
+
 <div align="center">
 
 
-## Lawrence Perez
+### Senior Software Engineer · Full-Stack Development · AI/ML & Data Engineering ✨
 
 
-**Senior Software Engineer · Full-Stack Development · AI/ML & Data Engineering**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Agentic+AI+%7C+LLMs+%7C+RAG;React+%2B+Next.js+on+the+front+end;Python+%26+FastAPI+services+on+AWS;Data+pipelines+that+hold+up+in+production)
 
 
 </div>
 
 
-Senior software engineer with 10+ years of experience building scalable systems across full-stack development, machine learning and data engineering. My current focus is **generative AI, LLM agents and retrieval-augmented generation**, with the evaluation, observability and data pipelines that make them reliable in production. Domain experience spans legal tech, marketing, developer tooling and healthcare data.
+---
 
 
-**Core expertise:** Agentic AI & RAG &nbsp;|&nbsp; Full-stack & microservices &nbsp;|&nbsp; Data pipelines & ML &nbsp;|&nbsp; Cloud-native architecture
+## 🎨 About
 
 
-### Selected Projects
+Senior software engineer with **10+ years** building scalable software across full-stack development, machine learning and data engineering. Lately I focus on **generative AI, LLM agents and RAG**, plus the data pipelines, APIs and automation that make them dependable. My work has spanned legal tech, marketing, developer tooling and oncology healthcare data.
 
 
-| Project | Domain | Summary |
-|---|---|---|
-| **Redline** | Agentic AI · Legal | Multi-agent contract review: clause extraction, playbook risk scoring and drafted redlines with human-in-the-loop approval |
-| **Precedent** | RAG · Search | Hybrid vector and keyword search over a contract library, returning grounded answers with source citations |
-| **Launchpad** | Full-Stack · Workflow | Campaign approvals platform with configurable review stages, event-driven notifications and a complete audit trail |
-| **Tagsmith** | Machine Learning | Content classification into a controlled taxonomy, with confidence-based human review and LLM fallback |
-| **OncoLake** | Data · Healthcare | Oncology EHR ETL into a de-identified longitudinal warehouse, with cohort analytics for researchers |
-| **Specwright** | Developer Tooling | Spec-driven, AI-assisted development workflow with traceability from requirement to tested code |
+## 🧰 Toolbox
 
 
-### Technical Skills
+<div align="center">
 
 
-| Area | Technologies |
-|---|---|
-| Languages & frameworks | Python, TypeScript, JavaScript, Java, SQL · React, Next.js, Angular, Node.js, FastAPI |
-| AI & machine learning | LLMs, RAG, LangChain, Claude, Amazon Bedrock, AgentCore, LLM evaluation, scikit-learn |
-| Data | PostgreSQL, pgvector, OpenSearch, DynamoDB, BigQuery, Pandas, ETL pipelines |
-| Cloud & DevOps | AWS (Lambda, S3, SQS, EventBridge, ECS), Docker, Kubernetes, Terraform, GitHub Actions |
+![Stack](https://skillicons.dev/icons?i=py,ts,java,react,nextjs,angular,nodejs,fastapi,postgres,aws,docker,kubernetes,terraform,githubactions)
+
+
+</div>
+
+
+`Python` `TypeScript` `React` `Next.js` `FastAPI` `LangChain` `Claude` `Amazon Bedrock` `pgvector` `OpenSearch` `BigQuery` `AWS Lambda`
+
+
+## ✨ Things I've Built
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+
+**Redline**<br>
+Multi-agent contract review system: agents extract clauses, score them against a negotiation playbook and draft redlines for a reviewing lawyer.
+
+
+</td>
+<td width="50%" valign="top">
+
+
+**Precedent**<br>
+RAG search over a contract library with hybrid **pgvector** + OpenSearch retrieval, where every answer cites its source passages.
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+**Launchpad**<br>
+React + **Node.js** campaign approvals platform with multi-stage reviews, event-driven reminders on SQS/Lambda and a full audit trail.
+
+
+</td>
+<td width="50%" valign="top">
+
+
+**Tagsmith**<br>
+**Python** ML tagging service that classifies content into a taxonomy and routes low-confidence items to human review.
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+**OncoLake**<br>
+Oncology EHR ETL into a de-identified **BigQuery** warehouse, with a cohort explorer for researchers.
+
+
+</td>
+<td width="50%" valign="top">
+
+
+**Specwright**<br>
+Spec-driven, **AI-assisted** development workflow that traces every change from requirement to tested code.
+
+
+</td>
+</tr>
+</table>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
